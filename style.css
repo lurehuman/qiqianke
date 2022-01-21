@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: #333;
+	line-height: 1;
+	background-repeat: no-repeat;
+}
+
+input,
+button {
+	display: block;
+	border: none;
+	outline: none;
+}
+
+a {
+	color: #333;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+.display-flex {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+img {
+	display: block;
+}
